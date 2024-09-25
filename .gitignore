@@ -3,3 +3,4 @@ target/
 dbt_packages/
 logs/
 dbt_bigquery_key/
+dbt_bigquery_key/learning-dbt-436208-a23c066b32ba.json
